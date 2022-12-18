@@ -111,9 +111,9 @@ export default defineUserConfig({
       giscus: {
         lang: "zh-CN",
         repo: "cosmoscatts/blog.cosmoscatts.io",
-        repoId: "R_kgDOIGCrNg",
+        repoId: "R_kgDOIotW3g",
         category: "Announcements",
-        categoryId: "DIC_kwDOIGCrNs4CRtet",
+        categoryId: "DIC_kwDOIotW3s4CTIZS",
         darkTheme: "https://blog.cosmoscatts.ren/styles/giscus-dark.css"
       },
       mdPlus: {
