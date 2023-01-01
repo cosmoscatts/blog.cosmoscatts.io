@@ -4,9 +4,9 @@ title: Links
 links:
   - title: 我自己能用就完事了
     items:
-      - sitename: Petite
-        url: https://github.com/cosmoscatts/petite
-        img: /img/links/petite.svg
+      - sitename: Frais
+        url: https://github.com/cosmoscatts/frais
+        img: /img/links/frais.svg
         desc: 后台管理模板（vue3 & naive-ui）
       - sitename: Parfait
         url: https://github.com/cosmoscatts/parfait
