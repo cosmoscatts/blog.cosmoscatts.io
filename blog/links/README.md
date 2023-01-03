@@ -48,10 +48,10 @@ links:
         url: https://github.com/cosmoscatts/vue-snakegame
         img: /img/links/snakegame.jpg
         desc: 贪吃蛇小游戏
-      # - sitename: Minesweeper
-      #   url: https://github.com/cosmoscatts/vue-minesweeper
-      #   img: /img/links/minesweeper.jpg
-      #   desc: 扫雷小游戏  
+      - sitename: Minesweeper
+        url: https://github.com/cosmoscatts/vue-minesweeper
+        img: /img/links/minesweeper.jpg
+        desc: 扫雷小游戏  
       # - sitename: Goldminer
       #   url: https://github.com/cosmoscatts/vue-goldminer
       #   img: /img/links/goldminer.jpg
